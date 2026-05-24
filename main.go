@@ -52,4 +52,9 @@ type World struct {
 
 func main() {
 	fmt.Println("Hello!")
+
+	// main loop
+	for {
+
+	}
 }
